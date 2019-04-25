@@ -10,6 +10,7 @@ COMMUNITY UTILS
   - [Cubo Network](https://cubo.network/jobs/search?area=&level=&startup=&city=&remote=false)
   - [Programathor](https://programathor.com.br/jobs)
   - [Vulpi](https://app.vulpi.com.br/jobs)
+  - [Vuejs BR](https://github.com/vuejs-br/vagas/issues)
   - [Grupo Facebook: Front-end 5k+](https://www.facebook.com/groups/frontend5k)
   - [Tag Github: vagas](https://github.com/topics/vagas)
   - [Tag Github: vagas-para-desenvolvedores](https://github.com/topics/vagas-para-desenvolvedores)
