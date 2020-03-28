@@ -38,7 +38,7 @@ COMMUNITY UTILS
 
 ## Onde se cadastrar para uma vaga
 
-#### Plataformas internacionais:
+#### Plataformas nacionais:
   - [Front-end Brasil - Me Contrata](https://github.com/frontendbr/me-contrata)
 
 
