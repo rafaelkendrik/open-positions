@@ -36,7 +36,7 @@ COMMUNITY UTILS
 > (\*) : necessário marcar opção `remoto` no menu
 
 
-## Onde cadastrar Curriculo
+## Onde cadastrar seu Curriculo
 
 #### Plataformas nacionais:
   - [Front-end Brasil - Me Contrata](https://github.com/frontendbr/me-contrata)
