@@ -1,6 +1,3 @@
-COMMUNITY UTILS
-===============
-
 ## Onde encontrar trabalhos
 
 #### Trabalhos presenciais - nacional:
