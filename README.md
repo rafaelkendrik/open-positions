@@ -33,7 +33,7 @@
 > (\*) : necessário marcar opção `remoto` no menu
 
 
-## Onde cadastrar seu Curriculo
+## Onde cadastrar seu curriculo
 
 #### Plataformas nacionais:
   - [Front-end Brasil - Me Contrata](https://github.com/frontendbr/me-contrata)
@@ -43,10 +43,12 @@
   - [Angel.co](https://angel.co/jobs)
 
 
-## Aplicações para networking
-  - http://dev.to
-  - http://pt.stackoverflow.com
-  - https://www.facebook.com/groups/frontend5k
+## Locais para fortalecer visibilidade
+  - [Dev.to](http://dev.to)
+  - [Stack Overflow](http://pt.stackoverflow.com)
+  - [Github](https://github.com)
+  - [Medium](https://medium.com)
+  - [Linkedin](https://linkedin.com)
 
 
 ## Post Relacionados
