@@ -33,8 +33,9 @@
 > (\*) : necessário marcar opção `remoto` no menu
 
 
-#### Trabalhos - por empresas:
+#### Trabalhos - lista de empresas:
   - [Airtable- Hiring Without Whiteboards](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs?blocks=hide)
+  - [Gupy.io](https://www.gupy.io/login)
 
 
 ## Onde cadastrar seu curriculo
