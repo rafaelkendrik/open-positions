@@ -33,6 +33,10 @@
 > (\*) : necessário marcar opção `remoto` no menu
 
 
+#### Trabalhos - por empresas:
+  - [Airtable- Hiring Without Whiteboards](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs?blocks=hide)
+
+
 ## Onde cadastrar seu curriculo
 
 #### Plataformas nacionais:
