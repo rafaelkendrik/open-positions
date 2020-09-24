@@ -10,6 +10,7 @@
   - [Grupo Facebook: Front-end 5k+](https://www.facebook.com/groups/frontend5k)
   - [Tag Github: vagas](https://github.com/topics/vagas)
   - [Tag Github: vagas-para-desenvolvedores](https://github.com/topics/vagas-para-desenvolvedores)
+  - [Vagas Junior/Estágio](https://github.com/alinebastos/vagas-junior-estagio#várias-cidades)
 
 
 #### Trabalhos remotos - nacional:
@@ -19,6 +20,7 @@
   - [Programathor](https://programathor.com.br/jobs?remoto=true)
   - [Remote Jobs Brasil](https://remotejobsbr.com/frontend)
   - [Vulpi **\***](https://app.vulpi.com.br/jobs)
+  - [Vagas Junior/Estágio](https://github.com/alinebastos/vagas-junior-estagio#remotas)
 > (\*) : necessário marcar opção `remoto` no menu
 
 
