@@ -31,6 +31,7 @@
   - [Remote Ok](https://remoteok.io/)
   - [Working Nomads](https://www.workingnomads.co/jobs)
   - [Functional Works](https://functional.works-hub.com/jobs/?remote=true)
+  - [Javascript Works](https://javascript.works-hub.com/jobs/?remote=true)
   - [Vanhack **\***](https://app.vanhack.com/)
 > (\*) : necessário marcar opção `remoto` no menu
 
