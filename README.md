@@ -30,6 +30,7 @@
   - [We Work Remotely](https://weworkremotely.com/remote-jobs)
   - [Remote Ok](https://remoteok.io/)
   - [Working Nomads](https://www.workingnomads.co/jobs)
+  - [Vue Jobs](https://vuejobs.com/remote-vuejs-jobs)
   - [Functional Works](https://functional.works-hub.com/jobs/?remote=true)
   - [Javascript Works](https://javascript.works-hub.com/jobs/?remote=true)
   - [Vanhack **\***](https://app.vanhack.com/)
