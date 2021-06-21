@@ -35,6 +35,8 @@
   - [Javascript Works](https://javascript.works-hub.com/jobs/?remote=true)
   - [Vanhack **\***](https://app.vanhack.com/)
   - [Arc Dev](https://arc.dev/remote-jobs)
+  - [YCombinator](https://news.ycombinator.com/jobs)
+  - [Findwork](https://findwork.dev/?remote=true)
 > (\*) : necessário marcar opção `remoto` no menu
 
 
